@@ -20,7 +20,7 @@ Research Interests
 
 Contact Me
 =====
-[Email](mailto: yuhao.geng@ntu.edu.sg) / [WeChat](../image/WeChatQRcode.jpg)
+[Email](mailto: yuhao.geng@ntu.edu.sg) / [WeChat](../images/WeChatQRcode.jpg)
 
 
 
