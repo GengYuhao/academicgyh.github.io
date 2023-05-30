@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Dr. Geng Yuhao is a Research Fellow from Associate Professor Yu Jing’s Group at the school of Materials Science and Engineering (MSE), Nanyang Technological University (NTU), Singapore. Dr. Geng received her bachelor’s degree in chemical engineering at Tsinghua University [Tsinghua University](https://www.tsinghua.edu.cn) in 2017, and then earned Ph. D. in chemical engineering and technology from THU in 2022. Her Ph.D. thesis, Preparation of Inorganic Halide Perovskite Nanocrystals in Micro-reaction Systems, was awarded as an Excellent Doctoral Thesis at THU. Before she left China, she had been awarded the fellowship of Zijing Tsinghua Scholar, which aims to encourage doctoral graduates with outstanding leadership and academic abilities to continue in pursuing their careers in academia. Up till now, she has published several articles as the first author in numerous renowned scientific journals including _Small_, _Lab on a Chip_, _Science China Materials_, etc.
-Geng Yuhao's [Curriculum Vitae](../assets/CV-Geng Yuhao.pdf)
+Geng Yuhao's [Curriculum Vitae](../assets/CV_Geng_Yuhao.pdf)
 
 Research Interests
 ======
