@@ -1,16 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me
-======
+
 Dr. Geng Yuhao is a Research Fellow from Associate Professor Yu Jing’s Group at the school of Materials Science and Engineering (MSE), Nanyang Technological University (NTU), Singapore. Dr. Geng received her bachelor’s degree in chemical engineering at Tsinghua University [Tsinghua University](https://www.tsinghua.edu.cn) in 2017, and then earned Ph. D. in chemical engineering and technology from THU in 2022. Her Ph.D. thesis, Preparation of Inorganic Halide Perovskite Nanocrystals in Micro-reaction Systems, was awarded as an Excellent Doctoral Thesis at THU. Before she left China, she had been awarded the fellowship of Zijing Tsinghua Scholar, which aims to encourage doctoral graduates with outstanding leadership and academic abilities to continue in pursuing their careers in academia. Up till now, she has published several articles as the first author in numerous renowned scientific journals including _Small_, _Lab on a Chip_, _Science China Materials_, etc.
 
+Research interests
+======
+* microfluidic technology 
+* microreaction systems
+* liquid-liquid phase separation
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
